@@ -1,0 +1,9 @@
+pip install termcolor
+pip install colorama
+pip install fake_useragent
+pip install selenium
+pip install requests
+pip install threading
+pip install json
+pip install datetime
+pip install re
